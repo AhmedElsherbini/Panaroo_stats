@@ -1,10 +1,10 @@
-# MicrobeAnnotator_stats
+# Panaroo_stats
 **Kindly, if you find this repo useful for your work, cite & star this repo**
 
 **What is this script?**
 
-[MicrobeAnnotator](https://github.com/cruizperez/MicrobeAnnotator) is a great tool for metabolic pathway annotation.
-However, if you need to collect pathway completeness stats from a cohort of genomes into one condensed CSV (to make a heatmap), you are in the right repo! 
+[MicrobeAnnotator](https://gthlab.au/panaroo/#/getingstarted/quickstart) is a great tool for graph-based  annotation.
+
 
 **What do you need?**
 
@@ -12,12 +12,12 @@ You shall have the tab files in one directory
 
 *What about dependencies?*
 
-Pandas, csv, argparse
+Pandas, , 
 
 Then, effortlessly, you can type in your beautiful terminal
 
 ```bash
-python3 microanno_stats.py -i .
+python3 microanno_stats.py -i . -p
 ```
 "-i /--input_dir"  is your path to the directory for your binary file. 
 
