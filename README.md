@@ -8,7 +8,7 @@
 
 **What do you need?**
 
-a prefix in your genome's names marking the group you are interested **(consider this before you start Panaroo analysis)**, and the Panaroo gene_presence_absence file 
+a prefix in your genome's names marking the group you are interested **(consider this before you start Panaroo analysis)**, and the Panaroo gene_presence_absence file which looks like the simple.csv attached.
 
 *What about dependencies?*
 
