@@ -1,0 +1,100 @@
+Gene,Non-unique Gene name,Annotation,CA_KPL_2859,CA_KPL_28579,CM_strain_150801,CM_strain_151011
+group_3277,,hypothetical protein,X_1,Y_1,j_1,Z_1
+rpmB,rpmB,50S ribosomal protein L28,X_2,Y_2,j_2,Z_2
+group_3269,,hypothetical protein,X_3,Y_3,j_3,Z_3
+sseA~~~sseA_2~~~sseA_1,sseA;sseA_2;sseA_1,Putative thiosulfate sulfurtransferase SseA,X_4,Y_4,j_4,Z_4
+ilvA,ilvA,L-threonine dehydratase biosynthetic IlvA,X_5,Y_5,j_5,Z_5
+dapB,dapB,4-hydroxy-tetrahydrodipicolinate reductase,X_6,Y_6,j_6,Z_6
+group_3267,,hypothetical protein,X_7,Y_7,j_7,Z_7
+btuD_5~~~btuD_3~~~btuD_1~~~btuD_4~~~btuD_2~~~rbbA~~~lnrL,btuD_5;btuD_3;btuD_1;btuD_4;btuD_2;rbbA;lnrL;,Vitamin B12 import ATP-binding protein BtuD;Ribosome-associated ATPase;Linearmycin resistance ATP-binding protein LnrL;Multidrug efflux system ATP-binding protein;hypothetical protein,X_8,Y_8,j_8,Z_8
+yhaP,yhaP;,putative protein YhaP;hypothetical protein,X_9,Y_9,j_9,Z_9
+group_3265,,hypothetical protein,X_10,Y_10,j_10,Z_10
+group_3263,,hypothetical protein,X_11,Y_11,j_11,Z_11
+group_3261,,hypothetical protein,X_12,Y_12,j_12,Z_12
+group_3260,,putative membrane protein,X_13,Y_13,j_13,Z_13
+group_3259,,hypothetical protein,X_14,Y_14,j_14,Z_14
+putP,putP,High-affinity proline transporter PutP,X_15,Y_15,j_15,Z_15
+group_3258,,hypothetical protein,X_16,Y_16,j_16,Z_16
+rapA_1~~~rapA,rapA_1;rapA,RNA polymerase-associated protein RapA,X_17,Y_17,j_17,Z_17
+group_3254,,hypothetical protein,X_18,Y_18,j_18,Z_18
+group_3253,,hypothetical protein,X_19,Y_19,j_19,Z_19
+group_3251,,hypothetical protein,X_20,Y_20,j_20,Z_20
+deaD,deaD,ATP-dependent RNA helicase DeaD,X_21,Y_21,,
+hutI,hutI,Imidazolonepropionase,X_22,Y_22,,
+whiB3,whiB3,Redox- and pH-responsive transcriptional regulator WhiB3,X_23,Y_23,,
+hutU,hutU,Urocanate hydratase,X_24,Y_24,,
+hisE,hisE,Phosphoribosyl-ATP pyrophosphatase,X_25,Y_25,,
+group_3248,,Lipase 2;Lipase 1,X_26,Y_26,,
+hisG,hisG,ATP phosphoribosyltransferase,X_27,Y_27,,
+hutH~~~hutH_1~~~hutH_2,hutH;hutH_1;hutH_2,Histidine ammonia-lyase,X_28,Y_28,,
+aspA,aspA,Aspartate ammonia-lyase,X_29,Y_29,,
+group_3245,,hypothetical protein,X_30,Y_30,,
+dcuA,dcuA,Anaerobic C4-dicarboxylate transporter DcuA,X_31,Y_31,,
+hutG,hutG;,Formimidoylglutamase;hypothetical protein,X_32,Y_32,,
+fhs~~~fhs_1~~~fhs_3~~~fhs_2,fhs;fhs_1;fhs_3;fhs_2,Formate--tetrahydrofolate ligase,X_33,Y_33,,
+group_3239,,hypothetical protein,X_34,Y_34,,
+group_3237,,hypothetical protein,X_35,Y_35,,
+group_3236,,hypothetical protein,X_36,Y_36,,
+group_3235,,hypothetical protein,X_37,Y_37,,
+ylbL,ylbL,putative protein YlbL,X_38,Y_38,,
+aftC,aftC,Alpha-(1->3)-arabinofuranosyltransferase,X_39,Y_39,,
+group_3234,,hypothetical protein,X_40,Y_40,,
+apeB,apeB,putative M18 family aminopeptidase 2,X_41,Y_41,,
+group_3230,,hypothetical protein,X_42,Y_42,,
+ccs1,ccs1;,Cytochrome c biogenesis protein Ccs1;hypothetical protein,X_43,Y_43,,
+miaB,miaB,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase,X_44,Y_44,,
+dnaE2_2~~~dnaE2_1~~~dnaE2,dnaE2_2;dnaE2_1;dnaE2;,Error-prone DNA polymerase;hypothetical protein,X_45,Y_45,,
+msrB,msrB,Peptide methionine sulfoxide reductase MsrB,X_46,Y_46,,
+group_3226,,putative endopeptidase,X_47,Y_47,j_20,Z_21
+group_3225,,hypothetical protein,,,j_21,Z_22
+dipZ_1~~~dipZ_2,dipZ_1;dipZ_2;,Protein DipZ;hypothetical protein,,,j_22,Z_23
+trmI~~~trmI_1,trmI;trmI_1,tRNA (adenine(58)-N(1))-methyltransferase TrmI,,,j_23,Z_24
+group_3224,,hypothetical protein,,,j_24,Z_25
+group_3223,,hypothetical protein,,,j_25,Z_26
+metQ,metQ;,D-methionine-binding lipoprotein MetQ;hypothetical protein,,,j_26,Z_27
+ccsA,ccsA,Cytochrome c biogenesis protein CcsA,,,j_27,Z_28
+hpt,hpt,Hypoxanthine-guanine phosphoribosyltransferase,,,j_28,Z_29
+group_3219,,putative protein/MSMEI_2713,,,j_29,Z_30
+glnA_1~~~glnA_2,glnA_1;glnA_2,Glutamine synthetase,,,j_30,Z_31
+group_3218,,hypothetical protein,,,j_31,Z_32
+sepF,sepF,Cell division protein SepF,,,j_32,Z_33
+group_3217,;mntH,hypothetical protein;Divalent metal cation transporter MntH,,,j_33,Z_34
+mpa,mpa,Proteasome-associated ATPase,,,j_34,Z_35
+group_3214,,hypothetical protein,,,j_35,Z_36
+group_3213,,hypothetical protein,,,j_36,Z_37
+metB,metB,Cystathionine gamma-synthase,,,j_37,Z_38
+fieF,fieF,Ferrous-iron efflux pump FieF,,,j_38,Z_39
+group_3207,,putative protein,,,j_39,Z_40
+group_3205,,hypothetical protein,,,j_40,Z_41
+pimB~~~pimB_1,pimB;pimB_1,GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase,,,j_41,Z_42
+group_3203,,Pyridoxal phosphate homeostasis protein,,,j_42,Z_43
+yfmO~~~mdtG~~~tetA_2,yfmO;mdtG;tetA_2,Multidrug efflux protein YfmO;Multidrug resistance protein MdtG;Tetracycline resistance protein class B,,,j_43,Z_44
+uvrD2,uvrD2,ATP-dependent DNA helicase UvrD2,,,j_44,Z_45
+dop,dop,Pup deamidase/depupylase,,,j_45,Z_46
+tmk,tmk,Thymidylate kinase,,,j_46,Z_47
+group_3199,,hypothetical protein,,,j_47,Z_48
+group_3198,,hypothetical protein,,,j_48,Z_49
+group_3197,,hypothetical protein,,,j_49,Z_50
+group_3196,,Putative aminotransferase/MSMEI_6121,,,j_50,Z_51
+group_3195,,hypothetical protein,,,j_51,Z_52
+dpnM~~~dpnM_2,dpnM;dpnM_2,Modification methylase DpnIIA,,,j_52,Z_53
+group_3192,,putative protein/MSMEI_2664,,,j_53,Z_54
+group_3191,,hypothetical protein,,,j_54,Z_55
+gltT~~~gltP,gltT;gltP,Proton/sodium-glutamate symport protein;Proton/glutamate-aspartate symporter,,,j_55,Z_56
+group_3190,,putative protein;hypothetical protein,,,j_56,Z_57
+hemL,hemL,Glutamate-1-semialdehyde 21-aminomutase,,,j_57,Z_58
+glkA_2~~~glkA~~~glkA_1,glkA_2;glkA;glkA_1,Glucokinase,,,j_58,Z_59
+group_3188,,Polyphenol oxidase,,,j_59,Z_60
+group_3186,,hypothetical protein,,,j_60,Z_61
+pup,pup,Prokaryotic ubiquitin-like protein Pup,,,j_61,Z_62
+nudC,nudC,NADH pyrophosphatase,,,j_62,Z_63
+mtrA,mtrA,DNA-binding response regulator MtrA,,,j_63,Z_64
+group_3184,,hypothetical protein,,,j_64,Z_65
+rpoA,rpoA,DNA-directed RNA polymerase subunit alpha,,,j_65,Z_66
+group_3183,,hypothetical protein,,,j_66,Z_67
+glmM,glmM,Phosphoglucosamine mutase,,,j_67,Z_68
+group_3182,,hypothetical protein,,,j_68,Z_69
+hepT,hepT,Heptaprenyl diphosphate synthase component 2,,,j_69,Z_70
+group_3181,,hypothetical protein,,,j_70,Z_71
+group_3180,,hypothetical protein,,,j_71,Z_72
+def_1~~~def_2,def_1;def_2,Peptide deformylase,,,j_72,Z_73
