@@ -3,29 +3,27 @@
 
 **What is this script?**
 
-[Panaroo](https://github.com/gtonkinhill/panaroo) is a great tool for graph-based  annotation.
+[Panaroo](https://github.com/gtonkinhill/panaroo) is a great tool for graph-based  annotation. However, sometimes I need to extract some common and unique genes from a certain group of genomes for further analysis. Therefore, I developed this simple script.
 
 
 **What do you need?**
 
-You shall have the tab files in one directory
+a prefix in your genome's names marking the group you are interested in, and the Panaroo gene_presence_absence file 
 
 *What about dependencies?*
 
-Pandas, , 
+Pandas,numpy, and argparse
 
 Then, effortlessly, you can type in your beautiful terminal
 
 ```bash
-python3 microanno_stats.py -i . -p
+ python panaroo_stats.py -i simple.csv -p CA_
 ```
-"-i /--input_dir"  is your path to the directory for your binary file. 
+"-i/--input_dir" is your path to your Panaroo CSV gene_presence_absence file
 
-In my case, the script was in the same directory as the Python file. Therefore, I wrote  <code>.</code> as my input directory.
+"-p/--prefix"  is your prefix of species you are interested in. For example, I am interested in bacteria whose names start with *CA_*
 
 
 **What do you get?**
 
-Currently, there are two files.
-
-1
+Currently, there are 3 files. 1 CSV files with the defined as the genes that are **100 % (not 99.9)** shared among all of your columns genoems in your input CSV file, 1 CSV for **100 %** gene shared and unique for the group of bacteria that have the prefix you wrote before in the command line, and one txt file with these genes unique for this bacteria adapted from the first column (genome) of you prefix marked genomes.
