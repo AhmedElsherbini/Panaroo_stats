@@ -36,18 +36,23 @@ args = my_parser.parse_args()
 
 ###########################################
 data  = args.input_dir
+
 data = pd.read_csv(data)
-#data = pd.read_csv("gene_presence_absence_panaroo.csv")
 pref = args.prefix
 #pref = "CA"
 ###################################
+#data = pd.read_csv("simple.csv")
 
 df = pd.DataFrame(data)
 
 ###################################
 
 #the core genome module
+
+
+df['Non-unique Gene name'] = df['Non-unique Gene name'].fillna('Hypothetical gene')
 df_no_na = df.dropna()
+
 df_core = df_no_na[df_no_na.apply(lambda row: row.astype(str).str.strip().all(), axis=1)]
 
 
@@ -64,7 +69,7 @@ df_core.to_csv('Core_genome.csv', index=False)
 
 ###################################
 #let's go for the file
-
+#pref = "CA_"
 spp_df = df.iloc[:, 3:]
 
 # Select columns that start with 'CA'
@@ -104,6 +109,5 @@ print("You have a pangenome  of %d genes"%(len(df)))
 print("On average, each genome has a %d genes"%(av_occ_col))
 print("You have a core genome of %d genes for your input genomes"%(len(df_core)))
 print("You have %d of unique genes for the %s group"%(len(gene_list),str(pref)))
-
 
 
