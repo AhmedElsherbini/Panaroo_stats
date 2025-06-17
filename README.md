@@ -3,7 +3,7 @@
 
 **What is this script?**
 
-[MicrobeAnnotator](https://gthlab.au/panaroo/#/getingstarted/quickstart) is a great tool for graph-based  annotation.
+[Panaroo](https://gthlab.au/panaroo/#/getingstarted/quickstart) is a great tool for graph-based  annotation.
 
 
 **What do you need?**
