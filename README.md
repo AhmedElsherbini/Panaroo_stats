@@ -3,7 +3,7 @@
 
 **What is this script?**
 
-[Panaroo](https://gthlab.au/panaroo/#/getingstarted/quickstart) is a great tool for graph-based  annotation.
+[Panaroo](https://github.com/gtonkinhill/panaroo) is a great tool for graph-based  annotation.
 
 
 **What do you need?**
